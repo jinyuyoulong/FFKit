@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = 'FFKit'
-s.version = '0.0.1'
+s.version = '0.0.2'
 s.license = 'MIT'
 s.summary = 'some personal file'
 s.homepage = 'https://github.com/jinyuyoulong/FFKit'
