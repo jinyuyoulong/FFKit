@@ -1,4 +1,4 @@
 # FFKit 
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/AFNetworking.svg)]
+[![CocoaPods Compatible](8.0)]
 
 personal iOS library
